@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weather", "weather\weather.csproj", "{9C987C1E-F15D-4D65-AFD4-7C77D5C18653}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D8E85D7-6BBD-4AE8-AB7D-1051BC486877}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		C:\Users\spenc\Videos\Captures\weather.png = C:\Users\spenc\Videos\Captures\weather.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
